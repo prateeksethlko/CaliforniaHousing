@@ -2,6 +2,9 @@
 
 
 ## Change the Path of Excel File to the DataSet(Excel) in the Original Repo.
+## Run it in VSCode with Jupiter Notebook Extension For best Result.
+
+##About
 
 The project involves analyzing a dataset on California housing:
 
